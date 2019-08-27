@@ -1,0 +1,4 @@
+regtest/
+
+std*.txt
+node.pid
