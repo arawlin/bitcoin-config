@@ -1,4 +1,14 @@
+blocks/
+chainstate/
 regtest/
+peers.dat
 
+*.log
 std*.txt
-node.pid
+*.pid
+.lock
+
+banlist.json
+settings.json
+
+
