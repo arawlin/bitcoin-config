@@ -1,7 +1,8 @@
 blocks/
 chainstate/
+indexes/
 regtest/
-peers.dat
+*.dat
 
 *.log
 std*.txt
